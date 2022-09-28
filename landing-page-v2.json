@@ -1,0 +1,135 @@
+{
+  "openSeaUrl": "http://hariankompas.art", 
+  "hero": {
+    "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/hero-img-v2.png",
+    "showTooltip": false,
+    "socmed": "Ikuti kami",
+    "cta": "Jelajahi",
+    "url": "http://hariankompas.art",
+    "community": "Gabung Komunitas",
+    "headline":
+      "Koleksi <strong>Ragam NFT</strong> Berbasis Jurnalistik <strong>Kompas</strong>",
+    "excerpt":
+      "Simak rangkaian koleksi NFT yang menampilkan kekayaan produk jurnalistik Harian Kompas. Jadilah bagian dari komunitas dan kolektor project NFT berbasis jurnalistik pertama di Indonesia.",
+    "isExternal": true
+  },
+  "archive": {
+    "live": true,
+    "status": "live",
+    "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/home-archive-v2.png",
+    "label": "RILISAN TEMATIS #3",
+    "headline": "Narasi Foto Terkurasi: <strong>Loka/Masa</strong>",
+    "cta": "Lihat Edisi",
+    "url": "http://hariankompas.art",
+    "excerpt":
+      "NFT berbasis foto, menampilkan 57 pilihan koleksi karya fotografer Harian Kompas yang pernah diterbitkan dalam buku Unpublished (2014) dan Sportscapes (2018). Koleksi ini tersedia di jaringan Tezos, dirilis secara berkala dari bulan September - Desember. Dapatkan edisi cetak dan merchandise dari Harian Kompas dengan mengumpulkan koleksi NFT-nya.",
+    "text": "Sale: September - Desember 2022",
+    "isExternal": true,
+    "shareMeta": {
+        "url": "http://hariankompas.art",
+        "title": "Narasi Foto Terkurasi: Loka/Masa",
+        "description": "NFT berbasis foto, menampilkan 57 pilihan koleksi karya fotografer Harian Kompas yang pernah diterbitkan dalam buku Unpublished (2014) dan Sportscapes (2018). Koleksi ini tersedia di jaringan Tezos, dirilis secara berkala dari bulan September - Desember. Dapatkan edisi cetak dan merchandise dari Harian Kompas dengan mengumpulkan koleksi NFT-nya.",
+        "quote": "Harian Kompas",
+        "hashtags": "hariankompas,narasifaktaterkurasi,nft",
+        "twitterUser": "hariankompas"
+    }
+  },
+  "discover": {
+    "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/discover-nft.png",
+    "headline":
+      "Ragam <strong>NFT</strong> dari <strong>berbagai peristiwa</strong> yang terekam dalam <strong>jurnalisme Kompas</strong>",
+    "excerpt":
+      "Temukan dan kumpulkan beragam NFT yang menampilkan berbagai peristiwa penting terekam dalam produk jurnalisme berkualitas Harian Kompas."
+  },
+  "edition": {
+    "headline":
+      "Rilisan <strong>Narasi Fakta Terkurasi</strong> <i>by</i> <strong>Harian Kompas</strong>",
+    "excerpt":
+      "Narasi Fakta Terkurasi menghadirkan produk NFT yang dilandasi semangat apresiasi untuk jurnalisme berkualitas. <i>Project</i> ini akan merilis berbagai arsip karya jurnalistik Harian Kompas yang memiliki signifikansi dan kedalaman narasi.<br><br>Rilisan NFT Harian Kompas merupakan rilisan tematis terbatas yang mengikuti ekshibisi konten, serta rilisan rutin yang dilepas bersama terbitan koran secara periodik.",
+    "cards": [
+      {
+        "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/nft-foto-terkurasi-fix.png",
+        "title": "Narasi Foto Terkurasi",
+        "desc": "Koleksi karya fotografer Harian Kompas yang mengabadikan sejumlah peristiwa dari berbagai loka dan masa",
+        "url": "http://hariankompas.art",
+        "isExternal": true,
+        "status": "live"
+      },
+      {
+        "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/57-peristiwa.png",
+        "title": "Indonesia / 57 Peristiwa",
+        "desc": "Rangkaian peristiwa terkemuka dari tiap tahun sepanjang usia Harian Kompas (1965-2022)",
+        "url": "/edition/indonesia-57-peristiwa",
+        "isExternal": false,
+        "status": "soldout"
+      },
+      {
+        "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/57-peristiwa-rev.png",
+        "title": "Kompas X Rakajana",
+        "desc": "Halaman muka Harian Kompas edisi 27 Juni 2022 yang menampilkan ilustrasi khusus",
+        "url": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111348810366043562056829252647986476808582390536717753475903312913905966120970",
+        "isExternal": true,
+        "status": "soldout"
+      }
+    ]
+  },
+  "archivebykompas": {
+    "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/nft-bottom-v2.png",
+    "label": "PROJECT",
+    "headline": "NARASI FAKTA TERKURASI",
+    "excerpt":
+      "NFT Kompas merupakan project dari Harian Kompas untuk berbagi koleksi produk jurnalistik dalam bentuk non-fungible token (NFT). Koleksi-koleksi ini akan memberikan kesempatan bagi publik untuk turut memiliki memento dari berbagai peristiwa yang direkam Harian Kompas di dalam jejaring <i>blockchain</i>.",
+    "button": {
+      "label": "Unduh Whitepaper",
+      "pdf": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/whitepaper/nft-kompas-id-hitepaper.pdf"
+    }
+  },
+  "roadmap": {
+    "title": "ROADMAP",
+    "subtitle": "NFT <i>by</i> KOMPAS",
+    "timeline": [
+      {
+        "date": "Narasi Fakta Terkurasi",
+        "text": "Merilis NFT berbasis arsip dalam balutan tema tertentu. Produk dirilis dalam jaringan Etherium yang bisa didapatkan publik melalui marketplace NFT, disertai dengan fungsi kegunaan yang bisa ditukar dengan berbagai produk Harian Kompas."
+      },
+      {
+        "date": "Narasi Foto Terkurasi",
+        "text": "Merilis digital collectible berupa foto karya fotografer Harian Kompas. Koleksi foto yang terkurasi ini bisa didapatkan publik melalui marketplace NFT yang inklusif dan disertai fungsi kegunaan untuk ditukar dengan berbagai produk Harian Kompas."
+      },
+      {
+        "date": "Narasi Fakta Tervisualisasi",
+        "text": "Karya-karya infografik dari Harian Kompas dihadirkan ke dalam bentuk NFT untuk bisa dikoleksi. Karya ini juga dikemas dalam bentuk poster cetak sebagai materi ajar atau peraga di lingkungan pendidikan."
+      },
+      {
+        "date": "Penambahan Fitur dan Fungsi Guna",
+        "text": "Rilisan NFT digunakan sebagai bahan untuk ekshibisi konten yang antara lain biasa diakses publik melalui situs ini. Harian Kompas juga berencana untuk menggelar atau berpartisipasi dalam ekshibisi IRL yang mencantumkan narasi mengenai produk serta tautan ke berkas NFT."
+      }
+    ]
+  },
+  "faq": {
+    "headline": "Tanya & Jawab",
+    "desc": "Informasi seputar proyek Narasi Fakta Terkurasi dan rilisan produk NFT Kompas dalam bentuk tanya-jawab. Sesi ini bisa terus dipantau karena akan senantiasa diperbarui.",
+    "accordionData": [
+      {
+        "title": "Dari mana Mengetahui Rilisan Produk NFT Kompas",
+        "content": "<p class='text-[#868686] mt-2 md:mt-3 lg:mb-8 md:pr-5'>Setiap rilisan akan dikomunikasikan melalui kanal media sosial dan komunitas yang dikelola Harian Kompas. Pastikan mengikuti perkembangannya. </p>"
+      },
+      {
+        "title": "Bagaimana Cara Memiliki Produk NFT Kompas?",
+        "content": "<p class='text-[#868686] mt-2 md:mt-3 lg:mb-8 md:pr-5'>Produk NFT Kompas bisa dibeli oleh publik melalui transaksi di lokapasar NFT sesuai dengan koleksinya. Tiap lokapasar menggunakan currency yang berbeda. Tautan ke lokapasar disediakan dalam website nft.kompas.id</p>"
+      },
+      {
+        "title": "Apa yang Akan Saya Dapatkan dengan Memiliki Produk NFT Kompas?",
+        "content": "<p class='text-[#868686] mt-2 md:mt-3 lg:mb-8 md:pr-5'>Selain NFT yang terdaftar dalam jaringan blockchain, pemilik NFT Kompas juga akan mendapatkan berbagai fungsi guna (utilities) yang bisa dikonversi ke berbagai produk. Pemilik NFT juga mendapatkan role khusus dalam kanal komunitas Kompas yang sewaktu-waktu mendapatkan akses eksklusif ke berbagai event Kompas.</p>"
+      },
+      {
+        "title": "Apakah NFT yang saya miliki bisa berpindah kepemilikannya?",
+        "content": "<p class='text-[#868686] mt-2 md:mt-3 lg:mb-8 md:pr-5'>Ya, Anda bisa memindahkan kepemilikan melalui proses transaksi via fitur yang disediakan lokapasar. Setiap transaksi akan ada royalty yang diberikan kepada kreator (Harian Kompas). Patut diingat bahwa beberapa fungsi guna hanya bisa ditukarkan satu kali saja.</p>"
+      },
+      {
+        "title": "Benefit apa yang didapatkan?",
+        "content": "<p class='text-[#868686] mt-2 md:mt-3 lg:mb-8 md:pr-5'>Anda bisa memantau benefit lainnya di kanal-kanal komunitas kami yang ada di Twitter, Instagram, dan Discord.</p>"
+      }
+    ]
+  }
+}

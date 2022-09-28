@@ -1,0 +1,1893 @@
+[
+  {
+  "name": "Indonesia / 57 Peristiwa",
+  "slug": "indonesia-57-peristiwa",
+  "headline": "Indonesia / 57 Peristiwa",
+  "release": 1,
+  "live": true,
+  "description": "NFT berbasis arsip dari rangkaian peristiwa bersejarah Indonesia di sepanjang usia Harian Kompas berdiri. Menampilkan 57 arsip halaman muka dari tiap tahun (1965-2022), yang memuat warta mengenai peristiwa penanda terkemuka. Rilisan tematis perdana dari produk Narasi Fakta Terkurasi dari Harian Kompas, berupa NFT yang diluncurkan di jaringan Ethereum.",
+  "data": [
+    {
+      "slug": "pemakaman-7-pahlawan-revolusi",
+      "price": "0.1 ETH",
+      "title": "Pemakaman 7 Pahlawan Revolusi",
+      "description":"Pemakaman tujuh perwira TNI AD alias para \"Pahlawan Revolusi\"”, pascaperistiwa Gerakan 30 September (G30S). Peristiwa G30S menjadi awal mula tragedi pembantaian 1965-1955 terhadap orang-orang yang dituduh berafiliasi dengan PKI, serta memantik berakhirnya rezim Orde Lama.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1965+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1965+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1965+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/24/pemakaman-7-pahlawan-revolusi",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163045253212012545/",
+      "penerbit": "Kompas",
+      "wartawan": "Kompas",
+      "tanggalPeristiwa": "Kamis, 11 Maret 1965",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Ahmad Yani, R Suprapto, MT Haryono, S Parman, Sutoyo, DI Panjaitan, Pierre Tendean, RE Martadinata, AH Nasution, Soekarno",
+      "instansiTerkait": "Angkatan Bersenjata Republik Indonesia (ABRI),  Akademi Militer Nasional",
+      "pemilikNFT":"",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+      
+    },
+    {
+      "slug": "presiden-memerintahkan-letdjen-soeharto-selamatkan-revolusi",
+      "price": "0.1 ETH",
+      "title": "Presiden Memerintahkan Letdjen Soeharto Selamatkan Revolusi",
+      "description":
+        "Presiden Soekarno mengeluarkan Surat Perintah Sebelas Maret (Supersemar) yang isinya memerintahkan Letjen Soeharto untuk mengembalikan keamanan dan kestabilan pemerintahan pasca G30S. Supersemar sempat dikira sebagai surat penyerahan kekuasaan dari Soekarno ke Soeharto.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1966+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1966+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1966+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/presiden-memerintahkan-letdjen-soeharto-bertindak-menjelamatkan-revolusi",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163044153700384769/",
+      "penerbit": "Kompas",
+      "wartawan": "Kompas",
+      "tanggalPeristiwa": "Jumat, 11 Maret 1966",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soekarno, Soeharto",
+      "instansiTerkait": "Tentara Nasional Indonesia (TNI)",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "persatuan-negara-asia-tenggara-terbentuk",
+      "price": "0.1 ETH",
+      "title": "Persatuan Negara Asia Tenggara Terbentuk",
+      "description":
+        "Lima negara Asia Tenggara mencapai persetujuan untuk membentuk sebuah organisasi kerjasama negara-negara Asia Tenggara yang bersifat non-militer dan non-politik, yang disebut sebagai Persatuan Negara Asia Tenggara atau Association of Southeast Asia (ASEAN).",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1967+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1967+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1967+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/persatuan-negara-asia-tenggara-terbentuk",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163043054188756993/",
+      "penerbit": "Kompas",
+      "wartawan": "Kompas",
+      "tanggalPeristiwa": "Selasa, 8 Agustus 1967",
+      "tempat": "Bangkok ",
+      "wilayah": "Thailand",
+      "tokohTerkait":
+        "Thanat Koman, Adam Malik, Narciso Ramos, Tun Abdul Razak, S Rajaratnam",
+      "instansiTerkait": "Association of South-East Asia/ASA, ASEAN",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pengemban-ketetapan-ix-mprs-djenderal-soeharto-dilantik-presiden-penuh",
+      "price": "0.1 ETH",
+      "title": "Pengemban Ketetapan IX MPRS: Djenderal Soeharto Dilantik Presiden Penuh",
+      "description":
+        "Sidang Umum MPR RI melantik dan menyumpah Jenderal Soeharto menjadi presiden penuh menggantikan Presiden Soekarno. Sidang MPR juga menunda pelaksanaan pemilu, mengamanatkan pembentukan Kabinet Pembangunan, dan mempertahankan Ketetapan MPRS IX yang berisi mandat pembubaran PKI.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1968+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1968+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1968+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/pengemban-ketetapan-ix-mprs-djenderal-soeharto-dilantik-presiden-penuh",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163041954677129217/",
+      "penerbit": "Kompas",
+      "wartawan": "Luwi Ishwara",
+      "tanggalPeristiwa": "Rabu, 27 Maret 1968",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, AH Nasution",
+      "instansiTerkait": "Majelis Permusyawaratan Rakyat Sementara (MPRS), Dewan Perwakilan Rakyat (DPR), Kabinet Pembangunan",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "rakjat-irian-barat-tetap-memilih-indonesia",
+      "price": "0.1 ETH",
+      "title": "Rakjat Irian Barat Tetap Memilih Indonesia",
+      "description":
+        "Musyawarah Penentuan Pendapat Rakyat di Jayapura memilih bergabung dengan Indonesia melalui keputusan dari 110 anggota Dewan Musyawarah, meski PBB mengamanatkan sistem one man one vote. Oleh karena itu, Pepera kontroversial karena dianggap menyalahi prinsip pemilihan yang demokratis.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1969+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1969+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1969+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/rakjat-irian-barat-tetap-memilih-indonesia",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163040855165501441/",
+      "penerbit": "Kompas",
+      "wartawan": "Kompas",
+      "tanggalPeristiwa": "Sabtu, 2 Agustus 1969",
+      "tempat": "Jayapura, Papua ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "U Thant, Adam Malik, Budiardjo, Amir Machmud, Ortiz Sanz, Frans Kaisiepo, Sarwo Edhie, Soeharto",
+      "instansiTerkait": "Perserikatan Bangsa-Bangsa (PBB), Dewan Musyawarah Penentuan Pendapat Rakyat Irian Barat",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "dr-ir-soekarno-meninggal-dunia",
+      "price": "0.1 ETH",
+      "title": "Dr Ir Soekarno Meninggal Dunia",
+      "description":
+        "Presiden Soekarno meninggal dunia di RSPAD Gatot Soebroto, Jakarta, karena komplikasi penyakit yang dideritanya. Di akhir hidupnya, Soekarno berada jauh dari keriuhan politik. Kompas menggambarkan Soekarno meninggal dalam tenang, \"seperti orang tidur sadja nampaknja\".",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1970+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1970+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1970+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/dr-ir-soekarno-meninggal-dunia",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163039755653873665/",
+      "penerbit": "Kompas",
+      "wartawan": "August Parengkuan",
+      "tanggalPeristiwa": "Minggu, 21 Juni 1970",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soekarno, Soeharto, Tien Soeharto, Guntur Soekarnoputra, Megawati Soekarnoputri, Rachmawati Soekarnoputri, Sukmawati Soekarnoputri, Guruh Soekarnoputra, Kartika Sari, Fatmawati, Ratna Sari Dewi",
+      "instansiTerkait": "Angkatan Bersenjata Republik Indonesia (ABRI),  Akademi Militer Nasional",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "golkar-di-tempat-pertama,-nu-kedua,-disusul-pni",
+      "price": "0.1 ETH",
+      "title": "Golkar di Tempat Pertama, NU Kedua, Disusul PNI",
+      "description":
+        "Pemilu pertama di era Orde Baru digelar. Golkar menang mutlak mengantongi 62,8 persen suara. Pemilu 1971 menjadi awal kejayaan Golkar sebagai mesin politik Orde Baru yang mengukuhkan posisi Soeharto sebagai Presiden hingga 32 tahun, sampai akhirnya rezim itu berhasil digulingkan pada 1998.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1971+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1971+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1971+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/golkar-di-tempat-pertama-nu-kedua-disusul-pni-ali-moertopo-golkar-menangnja-nggak-tanggung-tanggung",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163038656142245889/",
+      "penerbit": "Kompas",
+      "wartawan": "Kompas",
+      "tanggalPeristiwa": "Minggu, 4 Juli 1971",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Ali Murtopo, S Sokowati",
+      "instansiTerkait": "Golongan Karya (Golkar) Nahdlatul Ulama (NU), Partai Nasional Indonesia (PNI), Partai Katolik",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "penggunaan-eyd-dimulai-dengan-hal2-yang-tidak-perlukan-biaya",
+      "price": "0.1 ETH",
+      "title": "Penggunaan EYD Dimulai dengan Hal2 yang Tidak Perlukan Biaya",
+      "description":
+        "Ejaan yang Disempurnakan (EYD) resmi ditetapkan untuk menggantikan Ejaan Soewandi, mulai tanggal 17 Agustus 1972. Pelaksanaan EYD dilakukan secara bertahap karena memerlukan biaya, penyesuaian dan latihan. Pada edisi ini, Kompas ikut menggunakan EYD untuk pertama kalinya dalam redaksional koran.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1972+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1972+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1972+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/penggunan-eyd-dimulai-dengan-hal2-yang-tidak-perlukan-biaya",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163037556630618113/",
+      "penerbit": "Kompas",
+      "wartawan": "HK",
+      "tanggalPeristiwa": "Kamis, 17 Agustus 1972",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto",
+      "instansiTerkait": "",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "presiden-sesalkan-peristiwa-5-agustus",
+      "price": "0.1 ETH",
+      "title": "Presiden Sesalkan \"Peristiwa 5 Agustus\"",
+      "description":
+        "Kerusuhan pecah di Bandung pada 5 Agustus 1973, dipicu dengan insiden lalu lintas yang menyulut isu rasial. Tahun 1973 ditandai sejumlah peristiwa yang berkaitan dengan isu rasial, agama, suku, antarkelompok. Tahun ini, akronim SARA (Suku, Agama, Ras, Antargolongan) pertama kali muncul.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1973+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1973+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1973+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/presiden-sesalkan-peristiwa-5-agustus",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163036457118990337/",
+      "penerbit": "Kompas",
+      "wartawan": "RB Sugiantoro",
+      "tanggalPeristiwa": "Selasa, 7 Agustus 1973",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Soemitro, Mashuri SH",
+      "instansiTerkait": "Badan Koordinasi Intelijen Negara (BAKIN), Polri, Departemen Penerangan",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "kerusuhan-kerusuhan-hebat-melanda-ibukota",
+      "price": "0.1 ETH",
+      "title": "Kerusuhan-kerusuhan Hebat Melanda Ibukota",
+      "description":
+        "Ribuan mahasiswa berunjuk rasa mengkritik kebijakan ekonomi Soeharto yang dinilai terlalu berpihak pada investor asing. Kejadian itu bertepatan dengan kedatangan Perdana Menteri Jepang Kakuei Tanaka. Kedatangannya ikut menjadi sasaran kritik, dengan Jepang dilambangkan sebagai \"penjajah ekonomi\".",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1974+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1974+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1974+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/kerusuhan-kerusuhan-hebat-melanda-ibukota",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163035357607362561/",
+      "penerbit": "Kompas",
+      "wartawan": "RB Sugiantoro",
+      "tanggalPeristiwa": "Selasa, 15 Januari 1974",
+      "tempat": "Jakarta ",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Kakuei Tanaka Hariman Siregar",
+      "instansiTerkait": "Angkatan Bersenjata Republik Indonesia (ABRI), Dewan Mahasiswa Universitas Indonesia",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "dili-jatuh",
+      "price": "0.1 ETH",
+      "title": "Dili Jatuh",
+      "description":
+        "Indonesia menginvasi Timor Timur untuk merespons langkah Partai Fretilin yang mendeklarasikan kemerdekaan Republik Demokratik Timor Timur. Ini menjadi operasi militer terbesar Indonesia, melibatkan semua unsur angkatan bersenjata. Pada 2002, Timor Timur resmi melepaskan diri dari Indonesia.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1975+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1975+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1975+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/dili-jatuh",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163034258095734785/",
+      "penerbit": "Kompas",
+      "wartawan": "RB Sugiantoro",
+      "tanggalPeristiwa": "Minggu, 7 Desember 1975",
+      "tempat": "Dili ",
+      "wilayah": "Timor Leste",
+      "tokohTerkait":
+        "",
+      "instansiTerkait": "",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "peluncuran-palapa-berjalan-sempurna",
+      "price": "0.1 ETH",
+      "title": "Peluncuran Palapa Berjalan Sempurna",
+      "description":
+        "Peluncuran Satelit Palapa yang menghubungkan seluruh Nusantara dengan jaringan telepon, telegram, telex, dan televisi. Indonesia menjadi negara keempat setelah Rusia, Kanada, dan Amerika Serikat, yang memiliki satelit sendiri pada saat itu.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1976+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1976+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1976+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/peluncuran-palapa-berjalan-sempurna",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163033158584107009/",
+      "penerbit": "Kompas",
+      "wartawan": "Markus Duan Allo, Dudy Sudibyo",
+      "tanggalPeristiwa": "Jumat, 9 Juli 1976",
+      "tempat": "Bogor, Jawa Barat, Cape Canaveral, Florida ",
+      "wilayah": "Indonesia, Amerika Serikat",
+      "tokohTerkait":
+        "Emil Salim, GM Weischadie",
+      "instansiTerkait": "Kementerian Penerangan, Kementerian Perhubungan, Perusahaan Umum Telkom.",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "banjir-terbesar-di-jakarta-sejak-1892-seratus-ribu-penduduk-mengungsi",
+      "price": "0.1 ETH",
+      "title": "Banjir Terbesar di Jakarta Sejak 1892: Seratus Ribu Penduduk Mengungsi",
+      "description":
+        "Hujan deras berkepanjangan mengakibatkan banjir besar di Jakarta, merendam sebagian Jakarta dengan rata-rata ketinggian 70 cm. Di beberapa kawasan terendam sampai 3 meter. Sebanyak 100.000 penduduk terpaksa mengungsi. Kompas menyebutnya sebagai banjir terbesar di Jakarta sejak tahun 1892.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1977+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1977+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1977+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/banjir-terbesar-di-jakarta-sejak-1892-seratus-ribu-penduduk-mengungs",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163032059072479233/",
+      "penerbit": "Kompas",
+      "wartawan": "HW, DS, KR, PH, AG, SINDHU, PAM",
+      "tanggalPeristiwa": "Rabu, 19 Januari 1977",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Emil Salim, GM Weischadie",
+      "instansiTerkait": "Dinas Pekerjaan Umum DKI Jakarta",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "normalisasi-kampus-diserahkan-sepenuhnya-kepada-departemen-p&k",
+      "price": "0.1 ETH",
+      "title": "Normalisasi Kampus Diserahkan Sepenuhnya kepada Departemen P&K",
+      "description":
+        "Melalui kebijakan Normalisasi Kehidupan Kampus (NKK), rezim Orde Baru meredam kritik mahasiswa, dengan cara membuat mahasiswa sibuk dengan aktivitas akademik. Kebijakan NKK keluar pasca protes mahasiswa terhadap ditetapkannya Soeharto sebagai presiden untuk ketiga kalinya lewat Pemilu 1977.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1978+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1978+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1978+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/normalisasi-kampus-diserahkan-sepenuhnya-kepada-departemen-pk",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163030959560851457/",
+      "penerbit": "Kompas",
+      "wartawan": "Sides Sudyarto DS, JB Kristanto, ST Sularto",
+      "tanggalPeristiwa": "Senin, 3 April 1978",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Daud Yusuf, Sudomo, Benny Murdani, Surono, Mahar Mardjono, Adam Malik, Satari, Sudjana Sapi'ie",
+      "instansiTerkait": "Universitas Indonesia, Institut Pertanian Bogor, Institut Teknologi Bandung",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "semua-penumpang-dan-awak-pesawat-tewas",
+      "price": "0.1 ETH",
+      "title": "Semua Penumpang dan Awak Pesawat Tewas",
+      "description":
+        "Pesawat Fokker F-28 Palembang-Medan milik Garuda menabrak Gunung Pertektekan; menewaskan empat awak pesawat dan 57 penumpang. Ini kecelakaan kedua untuk pesawat jenis Fokker F-28 pada 1979. Sebelumnya, Fokker F-28 juga jatuh di Probolinggo, Jawa Timur, dalam penerbangan dari Denpasar ke Surabaya.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1979+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1979+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1979+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/f-28-mamberamo-tabrak-lereng-gunung-semua-penumpang-dan-awak-pesawat-tewas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163029860049223681/",
+      "penerbit": "Kompas",
+      "wartawan": "MT, PSC, DS, CH, SP, HH, HW",
+      "tanggalPeristiwa": "Kamis, 12 Juli 1979",
+      "tempat": "Karo, Sumatera Utara",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Roesmin Noerjadin, Ibnu Soebroto, Kardono, AE Lontoh Moh Nurtjahjo",
+      "instansiTerkait": "Direktorat Keselamatan Penerbangan, Kementerian Perhubungan, Garuda",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "sengkon-dan-karta-bebas",
+      "price": "0.1 ETH",
+      "title": "Sengkon dan Karta \"Bebas\"",
+      "description":
+        "Sengkon dan Karta diadili dan dipenjara atas tuduhan pembunuhan. Saat dipenjara, Sengkon dan Karta bertemu dengan preman yang mengaku menjadi pelaku sebenarnya. Sengkon dan Karta akhirnya dikeluarkan dari penjara. Kasus ini memicu lahirnya Peninjauan Kembali (PK) dalam hukum acara pidana saat ini.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1980+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1980+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1980+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/sengkon-dan-karta-bebas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163028760537595905/",
+      "penerbit": "Kompas",
+      "wartawan": "Jimmy S Harianto, Tumbur Sihotang, AM Dewabrata",
+      "tanggalPeristiwa": "Selasa, 4 November 1980",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Sengkon, Karta, Gunel, Artomo Singodirejo, Ali Said, R Soegondo, Ibnu Susanto, Tuni, Oemar Seno Adji, Albert Hasibuan, Djoko Soegianto, Agung Rafly Rasyad, Soedirjo",
+      "instansiTerkait": "Mahkamah Agung, DPR, Kejaksaan Agung, Ditjen Pemasyarakatan, Kejaksaan Negeri Bekasi",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "musibah-tampomas-ii-keempat-terburuk-di-dunia",
+      "price": "0.1 ETH",
+      "title": "Musibah Tampomas II Keempat Terburuk di Dunia",
+      "description":
+        "KM Tampomas II terbakar dan tenggelam saat perjalanan ke Makassar dari Jakarta. Dari sedikitnya 1.184 penumpang dan awak, baru dipastikan 755 yang selamat. Salah satu kecelakaan maritim terparah dalam sejarah.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1981+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1981+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1981+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/berdasarkan-angka-sementara-musibah-tampomas-ii-keempat-terburuk-di-dunia",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163027661025968129/",
+      "penerbit": "Kompas",
+      "wartawan": "August Parengkuan, M Sjafe'i Hassanbasari, Pius Caro",
+      "tanggalPeristiwa": "Minggu, 25 Januari 1981",
+      "tempat": "Selat Makassar",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Abdul Rivai, Roesmin Noerjadin, Sudomo, JE Habibie, Syufri Helmy Tandjung",
+      "instansiTerkait": "Pelni, Kementerian Perhubungan, Mahkamah Pelayaran, Komodo Marine, PT PANN, DPR",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "ali-moertopo-penembakan-misterius-dapat-dipertanggungjawabkan",
+      "price": "0.1 ETH",
+      "title": "Ali Moertopo: Penembakan Misterius Dapat Dipertanggungjawabkan",
+      "description":
+        "Pada 1982-1985, ratusan orang dituduh sebagai preman lalu ditembak tewas tanpa melalui proses hukum. Aksi ini dikenal sebagai petrus atau penembakan misterius. Wakil Ketua Dewan Pertimbangan Agung Ali Moertopo mengakui pelakunya aparat. Ia berdalih banyak rakyat yang merasa puas dan aman.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1982+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1982+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1982+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/wakil-ketua-dpa-ali-moertopo-penembakan-misterius-dapat-dipertanggungjawabkan",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163026561514340353/",
+      "penerbit": "Kompas",
+      "wartawan": "Ansel da Lopez",
+      "tanggalPeristiwa": "Rabu, 27 Juli 1982",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Ali Moertopo, Soeharto, M Panggabean, Soenawar Soekowati, HJ Naro, Sapardjo, Piet Wiryawan",
+      "instansiTerkait": "",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "gerhana-paling-indah-yang-pernah-disaksikan-para-ahli",
+      "price": "0.1 ETH",
+      "title": "Gerhana Paling Indah yang Pernah Disaksikan Para Ahli",
+      "description":
+        "Ribuan astronom memenuhi kawasan Tanjung Kodok, Jawa Timur, untuk mengamati gerhana matahari total, Sabtu (11/6/1983). Astronom dari sejumlah negara menyatakan, gerhana matahari yang melintasi Indonesia itu begitu indah dan berharga untuk kepentingan saintifik.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1983+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1983+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1983+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/gerhana-paling-indah-yang-pernah-disaksikan-para-ahli",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163025462002712577/",
+      "penerbit": "Kompas",
+      "wartawan": "Tim Kompas",
+      "tanggalPeristiwa": "Sabtu, 11 Juni 1983",
+      "tempat": "Tanjung Kodok",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Morris Aizenman, John Holdridge, Bharat Adur, Emil Salim, Hiseo Yamada, Roesmin Noerjadin, Azwar AN, Bernhard Wedel, Toshio Sekikawa, Wiranto Arismunandar, J Soegijo",
+      "instansiTerkait": "Universitas Iowa, Institut Astrofisika Bangalore India, Lembaga Penerbangan dan Antariksa Nasional",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "keberhasilan-swasembada-beras-baru-merupakan-tingkat-awal",
+      "price": "0.1 ETH",
+      "title": "Keberhasilan Swasembada Beras Baru Merupakan Tingkat Awal",
+      "description":
+        "Pada artikel Tinjauan Akhir Tahun Kompas pada 1984, produksi beras tahun 396.000 ton lebih tinggi ketimbang konsumsi beras yang diperkirakan mencapai 25,101 juta ton. Untuk pertama kali, Indonesia mampu mengekspor beras pasca Perang Dunia II.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1984+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1984+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1984+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/keberhasilan-swasembada-beras-baru-merupakan-tingkat-awal",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163024362491084801/",
+      "penerbit": "Kompas",
+      "wartawan": "Muh Sudarto Js",
+      "tanggalPeristiwa": "Rabu, 28 Agustus 1984",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Wardoyo",
+      "instansiTerkait": "Badan Pusat Statistik, Ditjen Agraria, BRI",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "sembilan-stupa-borobudur-diledakkan-senin-dini-hari",
+      "price": "0.1 ETH",
+      "title": "Sembilan Stupa Borobudur Diledakkan Senin Dini Hari",
+      "description":
+        "Peristiwa pengeboman Candi Borobudur terjadi di Magelang, Jawa Tengah, 21 Januari 1985. Ledakan bermula pukul 01.30, menyebabkan beberapa bangunan, arca, dan stupa hancur. Otak perencana pengeboman sampai sekarang belum ditangkap.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1985+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1985+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1985+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/sembilan-stupa-borobudur-diledakkan-senin-dini-hari",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163023262979457025/",
+      "penerbit": "Kompas",
+      "wartawan": "Julius Pourwanto, Djoko Poernomo, Ansel da Lopez, Doris Panjaitan, Tony D. Widiastono, Oemar Samsuri",
+      "tanggalPeristiwa": "Senin, 21 Januari 1985",
+      "tempat": "Borobudur, Magelang, Jawa Tengah",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Nugroho Notosusanto, Soegiarto, Soenarjo, IGN Anom, Boediardjo, Soegianto, Haryati Soebagio, Anton Soedjarwo, RP Soejono, Todung Mulya Lubis",
+      "instansiTerkait": "",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "hampir-dipastikan-ruu-pbb-akan-disahkan-jadi-uu",
+      "price": "0.1 ETH",
+      "title": "Hampir Dipastikan, RUU PBB akan Disahkan Jadi UU",
+      "description":
+        "Fraksi di DPR mengesahkan Rancangan Undang-Undang Pajak Bumi dan Bangunan. Hal itu menggantikan tujuh peraturan perpajakan lain yang tidak sesuai dengan perkembangan negara. Pertengahan 1980-an menjadi tonggak modernisasi perpajakan Indonesia.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1986+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1986+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1986+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/hampir-dipastikan-ruu-pbb-akan-disahkan-jadi-uu",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163022163467829249/",
+      "penerbit": "Kompas",
+      "wartawan": "Oemar Samsuri",
+      "tanggalPeristiwa": "Selasa, 17 Desember 1986",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, HJ Naro,Sudarmono",
+      "instansiTerkait": "DPR, Kementerian Keuangan, Direktorat Jenderal Pajak",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "kecelakaan-ka-paling-tragis-lebih-seratus-orang-tewas",
+      "price": "0.1 ETH",
+      "title": "Kecelakaan KA Paling Tragis: Lebih Seratus Orang Tewas",
+      "description":
+        "Kecelakaan kereta api pada 19 Oktober 1987 di Kelurahan Bintaro, Jakarta Selatan, merenggut 129 nyawa dan 238 orang luka berat. Peristiwa itu mengungkap masalah mendasar dalam tata kelola perkeretaapian, mulai dari muatan penumpang hingga peralatan yang tidak memenuhi persyaratan.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1987+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1987+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1987+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/27/kecelakaan-ka-paling-tragis-lebih-seratus-orang-tewas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163021063956201473/",
+      "penerbit": "Kompas",
+      "wartawan": "Tim Kompas",
+      "tanggalPeristiwa": "Senin, 19 Oktober 1987",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Roesmin Noerjadin, Dr Hidayat, Eddy M Nalapraya",
+      "instansiTerkait": "RSCM, RS Fatmawati, RS Pertamina, Palang Merah Indonesia (PMI), Perusahaan Jawatan Kereta Api (PJKA)",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "diwarnai-isak-tangis-indonesia-rebut-medali-perak",
+      "price": "0.1 ETH",
+      "title": "Diwarnai Isak Tangis, Indonesia Rebut Medali Perak",
+      "description":
+        "Selama 36 tahun sejak olimpiade di Helsinki, tahun 1952, Indonesia baru pertama kali membawa pulang medali. Medali perak pertama berhasil diraih Lilies Handayani, Nurfitriyana, dan Kusuma Wardhani dari cabang olahraga panahan. Trio pemanah ini pun dijuluki sebagai Srikandi.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1988+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1988+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1988+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/diwarnai-isak-tangis-indonesia-rebut-medali-perak",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163019964444573697/",
+      "penerbit": "Kompas",
+      "wartawan": "JB Kristanto, Irving Noor",
+      "tanggalPeristiwa": "Sabtu, 1 Oktober 1988",
+      "tempat": "Seoul",
+      "wilayah": "Korea Selatan",
+      "tokohTerkait":
+        "Lilies Handayani, Nurfitriyana, Kusuma Wardhani, Donald Pandiangan, Wiek Djatmika, Haposan Panggabean, Rusman K Utomo",
+      "instansiTerkait": "Perpani, KBRI di Seoul",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "kgph-h-mangkubumi-dinobatkan-jadi-sultan-hamengku-buwono-x",
+      "price": "0.1 ETH",
+      "title": "KGPH H Mangkubumi Dinobatkan Jadi Sultan Hamengku Buwono X",
+      "description":
+        "Seratus hari setelah Sultan Hamengku Buwono IX wafat, kerabat Keraton Yogyakarta sepakat menunjuk raja baru; KGPH Mangkubumi (43) agar dilantik dengan gelar Sri Sultan Hamengku Buwono X. Penobatan digelar pada Selasa (7/3/1989) di Yogyakarta.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1989+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1989+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1989+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/kgph-h-mangkubumi-dinobatkan-jadi-sultan-hamengku-buwono-x",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163018864932945921/",
+      "penerbit": "Kompas",
+      "wartawan": "Hariadi Saptono, Djoko Poernomo, Soelastri Soekirno, Julius Pourwanto",
+      "tanggalPeristiwa": "Selasa, 7 Maret 1989",
+      "tempat": "Yogyakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Sultan Hamengku Buwono IX, Sultan Hamengku Buwono X, Umar Kayam, Sudomo, HJ Naro, Frans Seda, Sukarton Marmosudjono, Soesilo Soedarman, Ichlasul Amal",
+      "instansiTerkait": "Keraton Yogyakarta, Provinsi DIY",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "562-jemaah-haji-indonesia-meninggal-dalam-musibah",
+      "price": "0.1 ETH",
+      "title": "562 Jemaah Haji Indonesia Meninggal dalam Musibah",
+      "description":
+        "Sebanyak 562 jemaah haji Indonesia meninggal akibat berdesak-desakan dalam terowongan di Mina, Arab Saudi, dalam proses menunaikan ibadah haji, Senin (2/7/1990). Presiden Soeharto memutuskan hari Jumat (6/7/1990) sebagai hari berkabung nasional.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1990+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1990+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1990+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/25/562-jemaah-haji-indonesia-meninggal-dalam-musibah",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163017765421318145/",
+      "penerbit": "Kompas",
+      "wartawan": "Tim Kompas",
+      "tanggalPeristiwa": "Senin, 2 Juli 1990",
+      "tempat": "Mina",
+      "wilayah": "Arab Saudi",
+      "tokohTerkait":
+        "Soeharto, Soepardjo Roestam, Tarmizi Taher, Hasan Basri, Muchtar Nasir, AG Tjetje, M Yusuf, Sukasah Soemawidjaja, Abdulrachman Djayaprawira, Irawan Abidin, M Jusuf, Rudini, Hartarto, Ali Said, Harmoko",
+      "instansiTerkait": "Departemen Agama, MUI, Walubi, Kedubes RI di Arab Saudi, Kementerian Penerangan, Golkar, UGM, RRI",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "korban-insiden-dili-sekitar-50-orang-tewas",
+      "price": "0.1 ETH",
+      "title": "Korban Insiden Dili Sekitar 50 Orang Tewas",
+      "description":
+        "Komisi Penyelidik Nasional Insiden 12 November 1991 di Dili melaporkan hasil kerja mereka ke Presiden Soeharto. Jumlah korban meninggal dunia disebutkan sekitar 50 orang dan luka-luka lebih dari 91 orang. Dalam laporan itu dikatakan ada provokasi dalam bentuk penusukan tamtama ABRI.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1991+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1991+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1991+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/kepala-negara-sampaikan-belasungkawa-korban-insiden-dili-sekitar-50-orang-tewas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163016665909690369/",
+      "penerbit": "Kompas",
+      "wartawan": "TJ Osdar",
+      "tanggalPeristiwa": "Kamis, 26 Desember 1991",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Moerdiono, Djaelani, Ben Mang Reng Say, Clementno Dos Reis Amaral, Harisoegiman, Hadi A Waarabi Alhadar, Anton Sujata, Soemitro",
+      "instansiTerkait": "Komisi Penyelidik Nasional, Mahkamah Agung, Dewan Pertimbangan Agung, DPR, Departemen Dalam Negeri",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "ri-rebut-2-emas",
+      "price": "0.1 ETH",
+      "title": "RI Rebut 2 Emas",
+      "description":
+        "Indonesia meraih dua medali emas pada Selasa (4/8/1992) di Barcelona, Spanyol, melalui kemenangan Susi Susanti dan Alan Budikusuma pada cabang olahraga bulu tangkis. Indonesia menjadi negara Asia ketujuh yang pernah mendapat medali emas saat itu.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1992+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1992+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1992+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/ri-rebut-2-emas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163015566398062593/",
+      "penerbit": "Kompas",
+      "wartawan": "Diah Marsidi, Jimmy S Harianto, Kartono Ryadi, L Sastra Wijaya, Rudy Badil, Yesayas Oktovianus",
+      "tanggalPeristiwa": "Selasa, 4 Agustus 1992",
+      "tempat": "Barcelona",
+      "wilayah": "Spanyol",
+      "tokohTerkait":
+        "Susi Susanti, Alan Budikusuma, Juan Antonio Samaranch, Bang Soo-hyun, Ardy B Wiranata, Hermawan Susanto, Thomas Stuer Lauridsen, Try Sutrisno, Rudy Hartono",
+      "instansiTerkait": "PB PBSI, IOC",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "kasus-marsinah-perlu-dituntaskan",
+      "price": "0.1 ETH",
+      "title": "Kasus Marsinah Perlu Dituntaskan",
+      "description":
+        "Marsinah, pejuang hak buruh, ditemukan meninggal, 8 Mei 1993. Sebelumnya, ia sempat berunding dengan pihak perusahaan yang melibatkan pejabat Komando Distrik Militer. Tahun 1995, Presiden Soeharto menyatakan kasus Marsinah perlu dituntaskan. Namun, kasus Marsinah tak pernah tuntas diusut.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1993+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1993+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1993+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/kasus-marsinah-perlu-dituntaskan",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163014466886434817/",
+      "penerbit": "Kompas",
+      "wartawan": "Mohammad Bakir, Anwar Hudijono, Agnes Swetta Pandia, Taufik H Mihardja",
+      "tanggalPeristiwa": "Jumat, 19 Mei 1993",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Abdul Latief, Marsinah, Imam Oetomo, Khusaeri",
+      "instansiTerkait": "Kementerian Tenaga Kerja, ABRI, Polri, International Labour Organization (ILO), Komnas HAM",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pemerintah-batalkan-siupp-tempo-editor-dan-detik",
+      "price": "0.1 ETH",
+      "title": "Pemerintah Batalkan SIUPP Tempo, Editor, dan Detik",
+      "description":
+        "Pemerintah membatalkan Surat Izin Usaha Penerbitan Pers Majalah Mingguan Tempo, Editor, dan tabloid Detik. Pada era Orde Baru, kebebasan pers dibatasi lewat pengawasan ketat pemerintah melalui Departemen Penerangan. Perusahaan pers yang getol mengkritik pemerintah terkena beredel.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1994+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1994+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1994+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/pemerintah-batalkan-siupp-tempo-editor-dan-detik",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163013367374807041/",
+      "penerbit": "Kompas",
+      "wartawan": "Agus Hermawan, Fandri Yuniarti, Budiman Tanuredjo, Myrna Ratna M",
+      "tanggalPeristiwa": "Selasa, 21 Juni 1994",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Subrata, Harmoko, Fikri Jufri, Harjoko Trisnad, Adnan Buyung Nasution, Todung Mulya Lubis, Edi Herwanto, M Najib",
+      "instansiTerkait": "Departemen Penerangan, Majalah Berita Mingguan Tempo, Majalah Editor, Tabloid DeTIK, Dewan Pers",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "n-2130-tanpa-dana-apbn-penerbangan-perdana-n-250-sukses",
+      "price": "0.1 ETH",
+      "title": "N-2130 Tanpa Dana APBN, Penerbangan Perdana N-250 Sukses",
+      "description":
+        "Pesawat N-250 buatan PT Industri Pesawat Terbang Nurtanio sukses terbang perdana pada Kamis (10/8/1995) dan mendarat di Bandara husein Sastranegara, Bandung, Jawa Barat.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1995+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1995+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1995+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/n-2130-tanpa-dana-apbn-penerbangan-perdana-n-250-sukses",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163012267863179265/",
+      "penerbit": "Kompas",
+      "wartawan": "Tri Hariyono, James Luhulima, Dudy Sudibyo, Ninok Leksono",
+      "tanggalPeristiwa": "Kamis, 10 Agustus 1995",
+      "tempat": "Bandung",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Try Sutrisno, BJ Habibie, Erwin Danuwinata, Sauid D Jenie",
+      "instansiTerkait": "Industri Pesawat Terbang Nurtanio, Kementerian Keuangan",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pangab-jangan-terpancing-hasutan-orang-yang-tak-bertanggung-jawab",
+      "price": "0.1 ETH",
+      "title": "Pangab: Jangan Terpancing Hasutan Orang yang Tak Bertanggung Jawab",
+      "description":
+        "Kerusuhan 27 Juli 1996 atau peristiwa \"Kudatuli\" dipicu aksi pengambilalihan Sekretariat DPP PDI di Jalan Diponegoro 58 Jakarta oleh faksi PDI pimpinan Soerjadi. Aktivitas tersebut lalu menyulut bentrokan antara massa dan aparat keamanan. Massa membakar gedung-gedung di kawasan Salemba.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1996+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1996+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1996+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/pangab-jangan-terpancing-hasutan-oknum-yang-tak-bertanggung-jawab",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163011168351551489/",
+      "penerbit": "Kompas",
+      "wartawan": "Tim Kompas",
+      "tanggalPeristiwa": "Sabtu, 27 Juli 1996",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Feisal Tanjung, Sutiyoso, Hamami Nata, Syarwan Hamid, Megawati Soekarnoputri, Amir Syarifudin, Marzuki Darusman",
+      "instansiTerkait": "PDI, TNI, Komnas HAM",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "sejuta-pekerja-di-phk",
+      "price": "0.1 ETH",
+      "title": "Sejuta Pekerja Di-PHK",
+      "description":
+        "Data Departemen Tenaga Kerja pada 1997 menunjukkan satu juta orang mengalami PHK akibat krisis moneter. Pengangguran terselubung, diyakini, jumlahnya mencapai 37-40 juta orang atau hampir setengah dari angkatan kerja Indonesia pada saat itu.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1997+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1997+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1997+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/sejuta-pekerja-di-phk",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163010068839923713/",
+      "penerbit": "Kompas",
+      "wartawan": "Simon Saragih",
+      "tanggalPeristiwa": "Senin, 29 Desember 1997",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Aburizal Bakrie, Iman Taufik, Adi Putra Darmawan Tahir, Dewi Motik Pramono, M Zakile, Payaman SImanjuntak, Bomer Pasaribu",
+      "instansiTerkait": "Kadin, Departemen Tenaga Kerja, Federasi Serikat Pekerja Seluruh Indonesia, ASEAN",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pak-harto-saya-ini-kapok-jadi-presiden",
+      "price": "0.1 ETH",
+      "title": "Pak Harto: Saya Ini Kapok Jadi Presiden",
+      "description":
+        "Soeharto menyatakan dalam konferensi pers untuk bersedia mundur dan membentuk Komite Reformasi. Namun, tidak jelas kapan. Sementara itu, puluhan ribu mahasiswa menduduki gedung DPR. Dua hari kemudian, Soeharto resmi mundur dari jabatan Presiden, mengakhiri 32 tahun kekuasaan Orde Baru.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1998+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1998+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1998+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/pak-harto-saya-ini-kapok-jadi-presiden",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163008969328295937/",
+      "penerbit": "Kompas",
+      "wartawan": "Cordula M Kuntari, J Osdar",
+      "tanggalPeristiwa": "Selasa, 19 Mei 1998",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Nurcholish Madjid, Abdurrahman Wahid, Emha Ainun Najib, Alie Yafie, Malik Fajar, Yusril Ihza Mahendra, Cholil Baidowi, Sumarsono, Ahmad Bagdja, Ma'ruf Amin",
+      "instansiTerkait": "ABRI, MPR, PBNU, Yayasan Paramadina,, Muhammadiyah, DPR",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "habibie-menang-kalah-adalah-hal-yang-wajar",
+      "price": "0.1 ETH",
+      "title": "Habibie: Menang-Kalah Adalah Hal yang Wajar",
+      "description":
+        "Pemilu 1999 yang digelar pada Senin (7/6/1999) adalah pemilu pertama sejak jatuhnya Orde Baru. Pemilu yang diikuti 48 partai politik bertujuan memilih 462 anggota DPR-RI, serta anggota DPRD tingkat provinsi dan kabupaten/kota periode 1999-2004.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1999+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-1999+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-1999+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/habibie-menang-kalah-adalah-hal-yang-wajar",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163007869816668161/",
+      "penerbit": "Kompas",
+      "wartawan": "Cordula M Kuntari, J Osdar",
+      "tanggalPeristiwa": "Minggu, 6 Juni 1999",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "BJ Habibie, Ainun Habibie, Jimmy Carter, Amien Rais, Megawati Soekarnoputri, Abdurrahman Wahid",
+      "instansiTerkait": "PDI Perjuangan, PAN, Nahdlatul Ulama, DPR, KPU",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "langit-indonesia-bebas-kutu-y2k",
+      "price": "0.1 ETH",
+      "title": "Langit Indonesia Bebas \"Kutu Y2K\"",
+      "description":
+        "Indonesia merayakan bebasnya sistem jaringan komputer dari risiko \"millenium bug\", gagalnya sistem akibat kesalahan perangkat lunak dalam perubahan angka tahun 1999 ke 2000.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2000+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2000+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2000+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/langit-indonesia-bersih-kutu-y2k",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163006770305040385/",
+      "penerbit": "Kompas",
+      "wartawan": "Dudy Sudibyo, Yuni Ikawati",
+      "tanggalPeristiwa": "Sabtu, 1 Januari 2000",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Risman Nuryadin, Abdulgani, Agum Gumelar",
+      "instansiTerkait": "Garuda, National Y2K, Angkasa Pura I, Angkasa Pura II, Kementerian Perhubungan, ICAO",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "presiden-megawati-soekarnoputri-kabinet-demisioner",
+      "price": "0.1 ETH",
+      "title": "Presiden Megawati Soekarnoputri: Kabinet Demisioner",
+      "description":
+        "Gus Dur lengser, Megawati ditetapkan menjadi Presiden RI dalam Sidang Istimewa MPR. Menteri Kabinet Persatuan Nasional yang dibentuk oleh Gus Dur juga dinyatakan demisioner dan tidak boleh mengambil kebijakan yang prinsipil sampai kabinet baru terbentuk.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2001+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2001+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2001+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/presiden-megawati-soekarnoputri-kabinet-demisioner",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163005670793412609/",
+      "penerbit": "Kompas",
+      "wartawan": "Tjahja Gunawan Diredja, August Parengkuan, Syahnan Rangkuti, Albertus Subur Tjahyono, P07, Tri Agung Kristanto, Pepih Nugraha, Taufik H Mihardja",
+      "tanggalPeristiwa": "Senin, 23 Juli 2001",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Megawati Soekarnoputri, Akbar Tandjung, Mazuki Darusman, Hatta Rajasa, Pramono Anung, Mahadi Sinambela, Matori Abdul Djalil, Abdurrahman Wahid, Taufik Kiemas",
+      "instansiTerkait": "MPR, DPR, Golkar, PDI-P, PAN, PPP, Partai Bulan Bintang, PKB",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "indonesia-dalam-bahaya-presiden-kutuk-keras-aksi-peledakan-bom",
+      "price": "0.1 ETH",
+      "title": "Indonesia Dalam Bahaya: Presiden Kutuk Keras Aksi Peledakan Bom",
+      "description":
+        "Pada Sabtu (12/10/2002), tiga bom meledak di Bali: dua terjadi di Kuta; dan satu di dekat Konsulat Jenderal Amerika Serikat. Menelan 203 korban jiwa dan 209 orang luka-luka, peristiwa ini dianggap sebagai serangan terorisme terburuk dalam sejarah Indonesia.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2002+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2002+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2002+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/presiden-kutuk-keras-aksi-peledakan-bom",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163004571281784833/",
+      "penerbit": "Kompas",
+      "wartawan": "OSD, MBA, T07, T05, T03, SIG, PEP, NIC, FIT",
+      "tanggalPeristiwa": "Sabtu, 12 Oktober 2002",
+      "tempat": "Kuta, Denpasar, Bali",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Megawati Soekarnoputri, Susilo Bambang Yudhoyono, Dorodjatun Kuntjoro-Jakti, Jusuf Kalla, Hassan Wirajuda, Endriartono Sutarto, AM Hendropriyono, Thomas B Fargo, Hasyim Muzadi, Ahmad Syafii Maarif",
+      "instansiTerkait": "TNI, BIN, Kedubes AS, Departemen Luar Negeri AS, MPR, Nahdlatul Ulama, Muhammadiyah",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "ledakan-di-hotel-jw-marriott-mirip-ledakan-bom-di-bali",
+      "price": "0.1 ETH",
+      "title": "Ledakan di Hotel JW Marriott Mirip Ledakan Bom di Bali",
+      "description":
+        "Bom mobil meledak di hotel JW Marriott, Jakarta, pada Selasa (5/8/2003) siang, menelan 12 korban tewas dan melukai lebih dari 100 orang. Ini adalah ledakan kelima yang terjadi pada 2003.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2003+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2003+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2003+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/ledakan-di-hotel-jw-marriott-mirip-ledakan-bom-di-bali",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163003471770157057/",
+      "penerbit": "Kompas",
+      "wartawan": "Tim Kompas",
+      "tanggalPeristiwa": "Selasa, 5 Agustus 2003",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Da'i Bachtiar, Susilo Bambang Yudhoyono, Taufik Kiemas, Achmad Sujudi, Chali Masulili, Amien Rais, Megawati Soekarnoputri",
+      "instansiTerkait": "Hotel JW Marriott, Rumah Sakit Cipto Mangunkusumo, Polri, MPR",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "bencana-nasional-tsunami-aceh",
+      "price": "0.1 ETH",
+      "title": "Bencana Nasional Tsunami Aceh",
+      "description":
+        "Gempa tektonik 8,9 skala Richter yang disusul tsunami dengan ketinggian hingga 30 meter meluluhlantakkan sebagian besar pesisir Aceh. Gempa terjadi dua kali dalam rentang waktu satu jam. Sebanyak 126.741 warga Aceh tewas dan 93.285 orang hilang dalam tsunami paling mematikan sepanjang sejarah itu.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2004+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2004+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2004+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/bencana-nasional-tsunami-aceh",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163002372258529281/",
+      "penerbit": "Kompas",
+      "wartawan": "Kornelis Kewa Ama, Ahmad Zulkani, Hamzirwan Abdul Hamid, Ahmad Arif, Yurnaldi, Dirman Thoha",
+      "tanggalPeristiwa": "Minggu, 26 Desember 2004",
+      "tempat": "Aceh, Nias, Nias Selatan, Serdang Bedagai, Sumatera Utara",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Susilo Bambang Yudhoyono, Hendra Suwarta, Mustafa A Glanggang, Hadi Purnomo",
+      "instansiTerkait": "Departemen Kesehatan, TNI, Badan Meteorologi dan Geofisika (BMG), PT Telkom",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "damailah-aceh",
+      "price": "0.1 ETH",
+      "title": "Damailah Aceh",
+      "description":
+        "Nota kesepahaman perdamaian Aceh ditandatangani oleh Pemerintah RI dengan Gerakan Aceh Merdeka pada Senin (15/8/2005) di Helsinki, Finlandia. Penandatanganan MOU ini diharapkan dapat mengakhiri konflik selama 30 tahun yang telah menelan sedikitnya 15.000 orang.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2005+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2005+B.png"
+          
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2005+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/damailah-aceh-pemerintah-ri-gam-tanda-tangani-mou",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163001272746901505/",
+      "penerbit": "Kompas",
+      "wartawan": "Abun Sanda",
+      "tanggalPeristiwa": "Senin, 15 Agustus 2005",
+      "tempat": "Helsinki",
+      "wilayah": "Finlandia",
+      "tokohTerkait":
+        "Hamid Awaluddin, Malik Mahmud, Martti Ahtisari, Erkki Tuomija, Susilo Bambang Yudhoyono, Jusuf Kalla, Agung Laksono, Ginandjar Kartasasmita",
+      "instansiTerkait": "Kementerian Hukum dan Hak Asasi Manusia, Gerakan Aceh Merdeka, DPR, Uni Eropa, ASEAN",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "belum-ada-penyelesaian-permanen-lumpur-panas",
+      "price": "0.1 ETH",
+      "title": "Belum Ada Penyelesaian Permanen Lumpur Panas",
+      "description":
+        "Tragedi semburan lumpur panas di lokasi pengeboran PT Lapindo Brantas di Sidoarjo, Jawa Timur. Sampai sekarang, 15 tahun setelah kejadian, lumpur tetap menyembur dan belum ada penyelesaian permanen.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2006+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2006+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2006+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/belum-ada-penyelesaian-permanen-lumpur-panas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775163000173235273729/",
+      "penerbit": "Kompas",
+      "wartawan": "FX Laksana Agung Saputra, Doty Damayanti, Timbuktu Harthana, Yuni Ikawati",
+      "tanggalPeristiwa": "Rabu, 9 Agustus 2006",
+      "tempat": "Sidoarjo, Jawa Timur",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Ridho Sani, Yuniwati Teryana, Rachmat Witoelar, Ridho Saiful Ashadi, Win Hendarso, Purnomo Yusgiantoro, Karyawa Warnika, Ronny Wahyudi",
+      "instansiTerkait": "Kementerian Lingkungan Hidup, PT Lapindo Brantas, Kementerian ESDM, Ikatan Ahli Geologi Indonesia",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pesawat-adam-air-hilang",
+      "price": "0.1 ETH",
+      "title": "Pesawat Adam Air Hilang",
+      "description":
+        "Pesawat AdamAir Surabaya-Manado jatuh, menewaskan 96 orang penumpang dan 6 orang awak. Pesawat hilang sejam setelah terbang; pancaran emergency locator beacon ditemukan di Tanatoraja, Sulsel oleh radar ATC Singapura. Pencarian dihentikan setelah kotak hitam ditemukan pada hari ke-25.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2007+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2007+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2007+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/pesawat-adam-air-hilang",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162999073723645953/",
+      "penerbit": "Kompas",
+      "wartawan": "Dwi As Setianingsih, Fredy Roeroe, Jean Rizal Layuck, Mohammad Subhan SD, Nina Susilo. Gatot Widakdo",
+      "tanggalPeristiwa": "Senin, 1 Januari 2007",
+      "tempat": "Jakarta, Tana Toraja, Makassar, Sulawesi Selatan",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Mohammad Iksan Tatang, Refri A Widodo, Yoga, Hartono, Simon Pinaria, Arif Mapagiling, Eddy Suyanto, Natalia Budiharjo",
+      "instansiTerkait": "Kementerian Perhubungan, Komite Nasional Keselamatan Transportasi, PT Adam Sky Connection Airlines",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "soeharto-berpulang-warisan-soeharto",
+      "price": "0.1 ETH",
+      "title": "Soeharto Berpulang: Warisan Soeharto",
+      "description":
+        "Presiden Soeharto, penguasa selama 32 tahun, meninggal di Jakarta, Minggu (27/1/2008), setelah sakit. Soeharto dimakamkan di pemakaman keluarga Astana Giribangun, Karanganyar, Jawa Tengah pada Senin (28/1); berdampingan dengan makam istrinya, Fatimah Siti Hartinah.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2008+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2008+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2008+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/soeharto-dimakamkan",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162997974212018177/",
+      "penerbit": "Kompas",
+      "wartawan": "JAKOB OETAMA, LUK, HAR, MAM, WER, ASA, MAR, ATO, TOM",
+      "tanggalPeristiwa": "Minggu, 27 Januari 2008",
+      "tempat": "Jakarta, Solo",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Soeharto, Tien Soeharto, Susilo Bambang Yudhoyono, Jusuf Kalla, Ban Ki-moon, Maxime Verhagen, Mahatir Mohamad, Brad Adams, Jeffrey Winters, Tun Abdul Razak, Paul Keating",
+      "instansiTerkait": "Golkar, TNI, ASEAN, PBB, Human Rights Watch, Northwestern University",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "negara-bisa-rugi-rp-5-triliun",
+      "price": "0.1 ETH",
+      "title": "Negara Bisa Rugi Rp 5 Triliun",
+      "description":
+        "Bank Century disuntik dana talangan pasca dinyatakan sebagai bank gagal berpotensi sistemik. Sejumlah kejanggalan aksi penyelamatan itu disorot BPK. Potensi kerugian negara diestimasi mencapai Rp 5 triliun (akhirnya menjadi Rp 6,7 triliun). Ini menjadi salah satu kasus korupsi besar yang mandek.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2009+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2009+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2009+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/negara-bisa-rugi-rp-5-triliun",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162996874700390401/",
+      "penerbit": "Kompas",
+      "wartawan": "Orin Basuki, M Fajar Marta",
+      "tanggalPeristiwa": "Kamis, 27 Agustus 2009",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Drajad H Wibowo, Sri Mulyani, Darmin Nasution, Sofyan Mie, Firdaus Djaelani",
+      "instansiTerkait": "DPR, Bank Indonesia, Kementerian Keuangan, Lembaga Penjamin Simpanan, Bank Century",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "semburan-letusan-menyebar-penduduk-di-sejumlah-tempat-panik",
+      "price": "0.1 ETH",
+      "title": "Semburan Letusan Menyebar, Penduduk di Sejumlah Tempat Panik",
+      "description":
+        "Erupsi Gunung Merapi pada 2010 disebut sebagai letusan terbesar Merapi sejak 1872; menewaskan ratusan orang, termasuk sang juru kunci, Mbah Maridjan. Akhir 2010 diwarnai sejumlah bencana alam; gempa dan tsunami di Kep Mentawai, Sumatera Barat, dan banjir bandang di Wasior, Papua Barat.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2010+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2010+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2010+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/semburan-letusan-menyebar-penduduk-di-sejumlah-tempat-panik",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162995775188762625/",
+      "penerbit": "Kompas",
+      "wartawan": "ENG, IRE, ARA, WKM, HEN, GAL, WHO, EGI",
+      "tanggalPeristiwa": "Senin, 1 November 2010",
+      "tempat": "Yogyakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Sukhyar, Sri Smarti, Sultan Hamengku Buwono X",
+      "instansiTerkait": "Provinsi DIY, Badan Penyelidikan dan Pengembangan Teknologi Kegunungapian, Badan Geologi",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "kebinekaan-pun-terancam",
+      "price": "0.1 ETH",
+      "title": "Kebinekaan Pun Terancam",
+      "description":
+        "Dua insiden bersentimen agama terjadi pada Februari 2011; penyerangan rumah pimpinan Ahmadiyah di Cikeusik, Banten yang menewaskan tiga jemaahnya. Kedua, pembakaran gereja di Temanggung, Jawa Tengah yang melukai 9 orang, 2 bangunan gereja dibakar dan 1 dirusak.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2011+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2011+B.png" 
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2011+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/kebinekaan-pun-terancam",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162994675677134849",
+      "penerbit": "Kompas",
+      "wartawan": "Marcellus Hernowo, Agustina Elok Dyah Messwati, Ilham Khoiri, M Fajar Marta, Nina Susilo",
+      "tanggalPeristiwa": "Minggu, 6 Februari 2011",
+      "tempat": "Cikeusik, Pandeglang, Temanggung, Banten, Jawa Tengah",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Lukman Hakim Saifuddin, Yudi Latif, Ridha Saleh, Franz Magnis-Suseno, Ismail Yusanto, Hasyim Muzadi, Piet Hisbullah Chaidir, Mahendradatta",
+      "instansiTerkait": "Ahmadiyah, Reform Institute, Komnas HAM, Sekolah Tinggi Filsafat Driyarkara, Hizbut Tahrir Indonesia",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "demokrasi-kian-matang",
+      "price": "0.1 ETH",
+      "title": "Demokrasi Kian Matang",
+      "description":
+        "Sejumlah pihak menilai Pilkada DKI 2012 menandakan demokrasi tumbuh ke arah yang lebih baik, karena para kandidat bersikap dewasa. Hasil hitung cepat menunjukkan keunggulan Joko Widodo-Basuki T Purnama (52,97 persen) atas Fauzi Bowo-Nachrowi Ramli (47,03).",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2012+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2012+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2012+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/demokrasi-kian-matang",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162993576165507073",
+      "penerbit": "Kompas",
+      "wartawan": "RAY, ART, FER, WHY, DIK, ATO, FRO, BRO",
+      "tanggalPeristiwa": "Minggu, 23 September 2012",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Sukardi Rinakit, Joko Widodo, Basuki Tjahaja Purnama, Fauzi Bowo, Nachrowi Ramli, Sumarno, J Kristiadi, Puan Maharani, Saan Mustopa, Ari Dwipayana",
+      "instansiTerkait": "PDI-P, Partai Gerindra, Partai Demokrat, Partai Golkar, PKS, PPP, PAN, PKB, KPU DKI Jakarta,",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "presiden-rakyat-terkejut-dan-marah",
+      "price": "0.1 ETH",
+      "title": "Presiden: Rakyat Terkejut dan Marah",
+      "description":
+        "KPK menangkap Ketua Mahkamah Konstitusi Akil Mochtar atas kasus suap sengketa pilkada dan pencucian uang. Ia divonis penjara seumur hidup. Kompas menyebut kasus ini sebagai tragedi besar bidang hukum, menunjukkan bahwa tak ada lembaga negara yang bersih dari korupsi.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2013+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2013+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2013+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/presiden-rakyat-terkejut-dan-marah",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162992476653879297/",
+      "penerbit": "Kompas",
+      "wartawan": "Susana Rita Kumalasanti, Harry Susilo, Khaerudin",
+      "tanggalPeristiwa": "Rabu, 2 Oktober 2013",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Akil Mochtar, Susilo Bambang Yudhoyono, Johan Budi, Bambang Widjojanto, Jimly Asshidiqie, Mahfud MD",
+      "instansiTerkait": "Mahkamah Konstitusi, Partai Golkar, DPR, Komisi Pemberantasan Korupsi",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "bergerak-bersama-demi-indonesia-raya",
+      "price": "0.1 ETH",
+      "title": "Bergerak Bersama Demi Indonesia Raya",
+      "description":
+        "Pelantikan Joko Widodo-Jusuf Kalla sebagai Presiden-Wakil Presiden RI 2014-2019 pada Senin (20/10/2014). Usai pelantikan di kompleks Parlemen, Senayan, Jakarta, Jokowi-JK menaiki kereta kencana menuju Istana Merdeka; warga berebut bersalaman.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2014+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2014+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2014+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/bergerak-bersama-demi-indonesia-raya",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162991377142251521/",
+      "penerbit": "Kompas",
+      "wartawan": "BIL, FER, RYO, NTA, AMR, WHY, ROW, IAM",
+      "tanggalPeristiwa": "Senin, 20 Oktober 2014",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Joko Widodo, Jusuf Kalla, Susilo Bambang Yudhoyono, Prabowo Subianto, BJ Habibie, Megawati Soekarnoputri, Try Sutrisno, Tony Abbott, Lee Hsien Loong, John Kerry, Yudi Latif, Husni Kamil Malik",
+        "instansiTerkait": "Reform Institute, KPU, MPR, DPR, PDI-P, Gerindra, Demokrat, PAN",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pemimpin-muda-bermunculan",
+      "price": "0.1 ETH",
+      "title": "Pemimpin Muda Bermunculan",
+      "description":
+        "Pemilihan Kepala Daerah atau Pilkada untuk pertama kali digelar secara serentak di 264 daerah. Berdasarkan hasil hitung cepat, sejumlah anak muda diketahui akan memenangi pilkada; seperti Zumi Zola (35) di Jambi, Emil Dardak (31) di Trenggalek.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2015+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2015+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2015+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/pemimpin-muda-bermunculan",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162990277630623745",
+      "penerbit": "Kompas",
+      "wartawan": "Tim Kompas",
+      "tanggalPeristiwa": "Rabu, 9 Desember 2015",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Arief Budiman, Zumi Zola, Emil Dardak, Tri Rismaharini, Herman Deru, FX Hadi Rudyatmo, Tjahjo Kumolo, Badrodin Haiti, Husni Kamil Malik",
+        "instansiTerkait": "KPU, Polri, Kementerian Dalam Negeri",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "hormati-proses-hukum-pencalonan-basuki-di-pilkada-dki-tidak-gugur",
+      "price": "0.1 ETH",
+      "title": "Hormati Proses Hukum, Pencalonan Basuki di Pilkada DKI Tidak Gugur",
+      "description":
+        "Mantan Gubernur DKI Jakarta Basuki Tjahaja Purnama ditetapkan sebagai tersangka penodaan agama akibat isi pidatonya, jelang pilkada. Serangkaian aksi demonstrasi muncul mendesak agar ia diadili. Pilkada DKI 2017 kental politik identitas oleh elite politik, memicu keterbelahan masyarakat.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2016+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2016+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2016+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/hormati-proses-hukum-pencalonan-basuki-di-pilkada-dki-tidak-gugur",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162989178118995969/",
+      "penerbit": "Kompas",
+      "wartawan": "DEA, IRE, MDN, MKN, GRE, MAM, BKY, ENG, HRS, SAN, ONG, INA, AGE, IAN, REK, NTA, NDY",
+      "tanggalPeristiwa": "Rabu, 16 November 2016",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Sumarno, Basuki Tjahaja Purnama, Ari Dono Sukmanto, Din Syamsuddin, Haedar Nashir, Djarot Saiful Hidayat",
+        "instansiTerkait": "KPU DKI Jakarta, Polri, Pimpinan Pusat Muhammadiyah, Majelis Ulama Indonesia",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "ktp-el-korupsi-nyaris-sempurna",
+      "price": "0.1 ETH",
+      "title": "KTP-el, Korupsi Nyaris Sempurna",
+      "description":
+        "Kasus korupsi KTP-el tahun 2011-2012 dianggap sebagai kejahatan nyaris sempurna. Ini karena, korupsi dimulai dari perencanaan dan melibatkan anggota legislatif, eksekutif, BUMN, dan swasta. Korupsi ini merugikan negara hingga Rp 2,3 triliun.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2017+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2017+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2017+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/arsip/2022/06/26/ktp-el-korupsi-nyaris-sempurna",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162988078607368193",
+      "penerbit": "Kompas",
+      "wartawan": "DEA, IRE, MDN, MKN, GRE, MAM, BKY, ENG, HRS, SAN, ONG, INA, AGE, IAN, REK, NTA, NDY",
+      "tanggalPeristiwa": "Kamis, 9 Maret 2017",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Agus Rahardjo, Gamawan Fauzi, Jhon Halasan Butarbutar, Burhanuddin Napitupulu, Andi Agustinus, Diah Anggraini, Nazaruddin, Anas Urbaningrum, Laode M Syarif, Setya Novanto, Ade Komarudin, Agung Laksono",
+        "instansiTerkait": "KPK, DPR, Kementerian Dalam Negeri, Partai Golkar, PDI-P, PAN, Kejaksaan Agung",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "indonesia-kalian-hebat",
+      "price": "0.1 ETH",
+      "title": "Indonesia, Kalian Hebat",
+      "description":
+        "Indonesia diapresiasi dunia internasional atas penyelenggaraan Asian Games 2018. Ini menjadi pembuktian Indonesia untuk menggelar ajang olahraga internasional lainnya. Saat itu, Indonesia sebagai tuan rumah menempati peringkat ke-4 dengan 31 emas, 24 perak, dan 43 perunggu.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2018+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2018+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2018+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/utama/2018/09/03/indonesia-kalian-hebat",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162986979095740417",
+      "penerbit": "Kompas",
+      "wartawan": "KEL, NIA, DNA, NIC, OKI, DEN, IND, IKI, JOG, E10, E13, E18",
+      "tanggalPeristiwa": "Minggu, 2 September 2018",
+      "tempat": "Jakarta, Palembang",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Sheikh Ahmad al-Fahad al-Sabah, Jusuf Kalla, Thomas Bach, Wei Ji Zhong, Joko Widodo",
+        "instansiTerkait": "The Olympic Council of Asia/OCA, International Olympic Committee/IOC",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pelemahan-sistematis-antikorupsi",
+      "price": "0.1 ETH",
+      "title": "Pelemahan Sistematis Antikorupsi",
+      "description":
+        "DPR dan Pemerintah sepakat merevisi UU KPK secara diam-diam; melemahkan lembaga antirasuah tersebut. Pada saat bersamaan, sejumlah RUU kontroversial lainnya juga digulirkan. Ini memicu gelombang unjuk rasa \"Reformasi Dikorupsi\" pada akhir 2019.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2019+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2019+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2019+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/utama/2019/09/04/diam-diam-dpr-kembali-berniat-melemahkan-kpk",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162985879584112641",
+      "penerbit": "Kompas",
+      "wartawan": "Agnes Theodora Wolkh Wagunu, Riana A Ibrahim",
+      "tanggalPeristiwa": "Rabu, 4 September 2019",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Agus Rahardjo, Sudiro Asno, Masinton Pasaribu, Agustinus Pohan, Ray Rangkuti",
+        "instansiTerkait": "KPK, DPR, Universitas Parahyangan, Lingkar Madani",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "saling-bantu-cegah-korona-meluas",
+      "price": "0.1 ETH",
+      "title": "Saling Bantu Cegah Korona Meluas",
+      "description":
+        "Dua kasus Covid-19 pertama diumumkan pada 3 Maret 2020. Ahli meyakini virus sudah masuk ke Indonesia sejak awal Januari, meski disangkal pemerintah dengan tetap membuka penerbangan dari dan ke Wuhan. Pandemi Covid-19 di Indonesia memuncak pada pertengahan 2021.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2020+A.png",
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2020+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2020+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/kesehatan/2020/03/03/saling-bantu-cegah-korona-meluas",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162984780072484865",
+      "penerbit": "Kompas",
+      "wartawan": "MTK, JOG, IGA, NIK, HRS, JAL, JOL, SYA, IKI, TAN, VDL, DIT, HLN, DNE, CAS, REK, INA, NTA, AIK",
+      "tanggalPeristiwa": "Senin, 2 Maret 2020",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Joko Widodo, Terawan Agus Putranto, Herawati Supolo Sudoyo, Mohammad Idris, Ibrahim A Sadjab, Ade Yasin, Liza Puspadewi, Ridwan Kamil, Yulianto Prabowo, Bambang Wibowo, Budi Setyadi, Sufmi Dasco Ahmad",
+        "instansiTerkait": "Kementerian Kesehatan, RSPI Sulianti Saroso, Pemerintah Kota Depok, DPR",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    },
+    {
+      "slug": "pengabdian-paripurna-patriot-bangsa",
+      "price": "0.1 ETH",
+      "title": "Pengabdian Paripurna Patriot Bangsa",
+      "description":
+        "Kapal Selam KRI Nanggala-402 pada Minggu (25/4/2021) dinyatakan tenggelam, membawa 53 personel setelah pencarian selama 72 jam sejak hilang pada Rabu (21/4) dini hari. Pasca musibah ini, muncul desakan terhadap TNI untuk melakukan evaluasi menyeluruh terhadap sistem persenjataan.",
+      "images": [
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2021+A.png", 
+          "https://d3n56do3mxm8ss.cloudfront.net/images/product/NFT-CARD-2021+B.png"
+      ],
+      "thumbnail": "https://d3n56do3mxm8ss.cloudfront.net/images/thumbnail/NFT-CARD-2021+A.png",
+      "availability": false,
+      "articleLLink": "https://www.kompas.id/baca/polhuk/2021/04/26/pengabdian-paripurna-patriot-bangsa",
+      "openseaLink": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/39753456164751798148016246611017274496496005658962305722775162983680560857089/",
+      "penerbit": "Kompas",
+      "wartawan": "COK, BRO, GER, NIK, NAD, INA",
+      "tanggalPeristiwa": "Minggu, 25 April 2021",
+      "tempat": "Jakarta",
+      "wilayah": "Indonesia",
+      "tokohTerkait":
+        "Hadi Tjahjanto, Yudha Kusuma, Kharisma Dwi Bintarani, Whilly ST, Tri Rismaharini, Khofifah Indar Parawansa, Eros Wasis, Jusuf Kalla, Wayan Koster, Connie Rahakundini Bakried",
+        "instansiTerkait": "TNI, Ismerlo, Dewan Masjid Indonesia, Kementerian Sosial, FKPD Kabupaten Buleleng",
+      "pemilikNFT":
+        "",
+      "utility": [
+        "Akses 12 bulan Kompas Digital (untuk 5 akun)*",
+        "Kaus spesial edisi halaman",
+        "Diskon 30% untuk pembelian buku dan merchandise di Gerai Kompas*",
+        "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
+      ],
+      "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
+
+    }        
+  ]
+}
+]
