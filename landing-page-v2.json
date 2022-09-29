@@ -56,14 +56,6 @@
         "status": "live"
       },
       {
-        "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/nft-foto-terkurasi-fix.png",
-        "title": "Narasi Foto Terkurasi",
-        "desc": "Koleksi karya fotografer Harian Kompas yang mengabadikan sejumlah peristiwa dari berbagai loka dan masa",
-        "url": "http://hariankompas.art",
-        "isExternal": true,
-        "status": "live"
-      },
-      {
         "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/57-peristiwa.png",
         "title": "Indonesia / 57 Peristiwa",
         "desc": "Rangkaian peristiwa terkemuka dari tiap tahun sepanjang usia Harian Kompas (1965-2022)",
