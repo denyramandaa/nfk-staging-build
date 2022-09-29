@@ -17,7 +17,7 @@
     "live": true,
     "status": "live",
     "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/home-archive-v2.png",
-    "label": "RILISAN TEMATIS #3",
+    "label": "RILISAN TEMATIS #2",
     "headline": "Narasi Foto Terkurasi: <strong>Loka/Masa</strong>",
     "cta": "Lihat Edisi",
     "url": "http://hariankompas.art",
@@ -47,6 +47,14 @@
     "excerpt":
       "Narasi Fakta Terkurasi menghadirkan produk NFT yang dilandasi semangat apresiasi untuk jurnalisme berkualitas. <i>Project</i> ini akan merilis berbagai arsip karya jurnalistik Harian Kompas yang memiliki signifikansi dan kedalaman narasi.<br><br>Rilisan NFT Harian Kompas merupakan rilisan tematis terbatas yang mengikuti ekshibisi konten, serta rilisan rutin yang dilepas bersama terbitan koran secara periodik.",
     "cards": [
+      {
+        "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/nft-foto-terkurasi-fix.png",
+        "title": "Narasi Foto Terkurasi",
+        "desc": "Koleksi karya fotografer Harian Kompas yang mengabadikan sejumlah peristiwa dari berbagai loka dan masa",
+        "url": "http://hariankompas.art",
+        "isExternal": true,
+        "status": "live"
+      },
       {
         "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/nft-foto-terkurasi-fix.png",
         "title": "Narasi Foto Terkurasi",
