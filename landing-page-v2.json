@@ -1,17 +1,17 @@
 {
-  "openSeaUrl": "http://hariankompas.art", 
+  "openSeaUrl": "https://linktr.ee/nftkompas", 
   "hero": {
     "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/hero-img-v2.png",
     "showTooltip": false,
     "socmed": "Ikuti kami",
     "cta": "Jelajahi",
-    "url": "http://hariankompas.art",
+    "url": "/edition/narasi-foto-terkurasi",
     "community": "Gabung Komunitas",
     "headline":
       "Koleksi <strong>Ragam NFT</strong> Berbasis Jurnalistik <strong>Kompas</strong>",
     "excerpt":
       "Simak rangkaian koleksi NFT yang menampilkan kekayaan produk jurnalistik Harian Kompas. Jadilah bagian dari komunitas dan kolektor project NFT berbasis jurnalistik pertama di Indonesia.",
-    "isExternal": true
+    "isExternal": false
   },
   "archive": {
     "live": true,
@@ -20,11 +20,11 @@
     "label": "RILISAN TEMATIS #2",
     "headline": "Narasi Foto Terkurasi: <strong>Loka/Masa</strong>",
     "cta": "Lihat Edisi",
-    "url": "http://hariankompas.art",
+    "isExternal": false,
+    "url": "/edition/narasi-foto-terkurasi",
     "excerpt":
       "NFT berbasis foto, menampilkan 57 pilihan koleksi karya fotografer Harian Kompas yang pernah diterbitkan dalam buku Unpublished (2014) dan Sportscapes (2018). Koleksi ini tersedia di jaringan Tezos, dirilis secara berkala dari bulan September - Desember. Dapatkan edisi cetak dan merchandise dari Harian Kompas dengan mengumpulkan koleksi NFT-nya.",
     "text": "Sale: September - Desember 2022",
-    "isExternal": true,
     "shareMeta": {
         "url": "http://hariankompas.art",
         "title": "Narasi Foto Terkurasi: Loka/Masa",
@@ -51,8 +51,8 @@
         "img": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/nft-foto-terkurasi-fix.png",
         "title": "Narasi Foto Terkurasi",
         "desc": "Koleksi karya fotografer Harian Kompas yang mengabadikan sejumlah peristiwa dari berbagai loka dan masa",
-        "url": "http://hariankompas.art",
-        "isExternal": true,
+        "url": "/edition/narasi-foto-terkurasi",
+        "isExternal": false,
         "status": "live"
       },
       {
@@ -81,7 +81,7 @@
       "NFT Kompas merupakan project dari Harian Kompas untuk berbagi koleksi produk jurnalistik dalam bentuk non-fungible token (NFT). Koleksi-koleksi ini akan memberikan kesempatan bagi publik untuk turut memiliki memento dari berbagai peristiwa yang direkam Harian Kompas di dalam jejaring <i>blockchain</i>.",
     "button": {
       "label": "Unduh Whitepaper",
-      "pdf": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/whitepaper/nft-kompas-id-hitepaper.pdf"
+      "pdf": "https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/whitepaper/nft-kompas-id-whitepaper.pdf"
     }
   },
   "roadmap": {

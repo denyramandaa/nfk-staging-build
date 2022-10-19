@@ -6,6 +6,8 @@
   "release": 1,
   "live": true,
   "description": "NFT berbasis arsip dari rangkaian peristiwa bersejarah Indonesia di sepanjang usia Harian Kompas berdiri. Menampilkan 57 arsip halaman muka dari tiap tahun (1965-2022), yang memuat warta mengenai peristiwa penanda terkemuka. Rilisan tematis perdana dari produk Narasi Fakta Terkurasi dari Harian Kompas, berupa NFT yang diluncurkan di jaringan Ethereum.",
+  "isExternal": false,
+  "url": "",
   "data": [
     {
       "slug": "pemakaman-7-pahlawan-revolusi",
@@ -36,8 +38,6 @@
         "Gratis 1 kali kelas dan diskon 30% untuk kelas seterusnya di Kompas Institute*"
       ],
       "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
-
-      
     },
     {
       "slug": "presiden-memerintahkan-letdjen-soeharto-selamatkan-revolusi",
@@ -1887,7 +1887,29 @@
       ],
       "terms":"* Berlaku 1 (satu) tahun. <br /> <i>Utilities</i> berlaku hanya untuk satu kali <i>reedem</i>."
 
-    }        
-  ]
-}
+    }]
+  },
+  {
+    "name": "Narasi Foto Terkurasi",
+    "slug": "narasi-foto-terkurasi",
+    "headline": "Narasi Foto Terkurasi: Loka/Masa",
+    "release": 1,
+    "live": true,
+    "description": "Narasi Foto Terkurasi merupakan kurasi karya fotografer Harian Kompas dalam bentuk koleksi digital. Pada rilisan pertama, project ini membawa tema Loka/Masa, dengan menampilkan 57 foto yang direkam 19 fotografer dari tahun 2003 - 2018.",
+    "isExternal": false,
+    "url": "http://hariankompas.art",
+    "data": [],
+    "template": "<div class='w-full relative mx-auto' style='max-width: 1024px'><img src='https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/narasi-terkurasi/narasi_terkurasi_image_1.png'/></div><p class='mx-auto md:w-[587px] lg:w-[621px] mt-8'>Loka/Masa yang menjadi tema mengambil konteks loka (tempat) dan masa (waktu) yang menjadi penanda rilisan foto berbasis jurnalistik.<br><br>Melalui Loka/Masa, 57 foto dirilis sebagai digital collectibles melalui jaringan Tezos, salah satu blockchain dengan skena fotografi yang sudah cukup berkembang. Foto-foto tersebut bisa dikoleksi melalui lokapasar <b>Objkt.com</b> atau via tautan hariankompas.art.<br><br>Masing-masing foto akan dirilis sejumlah 57 edisi, sesuai usia Harian Kompas tahun ini. Total 3249 NFT bisa dikoleksi melalui rilisan yang disebar dari bulan September hingga Desember 2022.</p><br><br><div class='w-full relative mx-auto' style='max-width: 1024px'><img class='w-full max-w-screen-lg my-8' src='https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/narasi-terkurasi/narasi_terkurasi_benefit_1.png' /></div><br><br><div class='mx-auto md:w-[587px] lg:w-[621px] mt-[50px] flex flex-col gap-y-4'><p>Koleksi fotonya, dan dapatkan berbagai nilai guna menarik:</p><ul class='list-none'><li class='flex gap-x-4'><img src='/src/assets/icons/check.svg' alt='check'><p>Role eksklusif di Discord</p></li><li class='flex gap-x-4'><img src='/src/assets/icons/check.svg' alt='check'><p>5 Koleksi: Printed Photo Premium</p></li><li class='flex gap-x-4'><img src='/src/assets/icons/check.svg' alt='check'><p>10 Koleksi: Printed T-Shirt</p></li><li class='flex gap-x-4'><img src='/src/assets/icons/check.svg' alt='check'><p>17 Koleksi: Buku Sportscapes</p></li><li class='flex gap-x-4'><img src='/src/assets/icons/check.svg' alt='check'><p>25 Koleksi: Home Decor Acrylic</p></li><li class='flex gap-x-4'><img src='/src/assets/icons/check.svg' alt='check'><p>57 Koleksi: Bundling All Benefits</p></li></ul><p>*Teknis penukaran, syarat dan ketentuan, serta keterangan lebih lanjut bisa dipelajari di Discord.</p></div><a href='http://hariankompas.art' target='_blank' noopener><img class='max-w-[842px] mt-8 mx-auto w-full' src='https://kompasid-production-nft.s3.ap-southeast-1.amazonaws.com/images/narasi-terkurasi/narasi_terkurasi_image_2.png' alt='objkt-img' ></a>"
+  },
+  {
+    "name": "Kompas X Rakajana",
+    "slug": "kompas-x-rakajana",
+    "headline": "Kompas X Rakajana:",
+    "release": 1,
+    "live": false,
+    "description": "",
+    "isExternal": true,
+    "url": "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111348810366043562056829252647986476808582390536717753475903312913905966120970",
+    "data": []
+  }
 ]
